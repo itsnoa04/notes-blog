@@ -1,0 +1,1 @@
+- The core of an OS that manages various operations
