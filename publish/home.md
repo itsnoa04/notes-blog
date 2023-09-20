@@ -1,11 +1,13 @@
 ---
 title: Devamsh Manoj
-excerpt:
+excerpt: What is this blog
 ---
+
 # The Blog
 
 This is a blog containing my live notes
 
-this page is kept up to date with my notes
+this page is kept up to date with my note
+
 
 
