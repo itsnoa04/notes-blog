@@ -1,4 +1,9 @@
-- a [[Userspace]] counterpart provided by most [[linux]] interfaces
+---
+title: libdrm
+excerpt: what is libdrm
+tags:
+---
+ - a [[Userspace]] counterpart provided by most [[linux]] interfaces
 - has a pleasant-ish C API for working with these [[device nodes]] .
 - [[Userspace]] portion of the [[DRM]] subsystem.
 - used by [[The Wayland Compositor]] to do [[modsetting]] and other [[DRM]] operations

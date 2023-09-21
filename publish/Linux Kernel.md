@@ -1,3 +1,8 @@
+---
+title: Linux Kernel
+excerpt: what is the linux kernel
+tags:
+---
 - the system [[Kernel]] for the [[linux]] operating system
 - Only component allowed to talk to hardware
 - Provides an abstraction layer over hardware so it can be safely accessed by [[Userspace]] - where display compositors like the [[The Wayland Compositor]] runs.

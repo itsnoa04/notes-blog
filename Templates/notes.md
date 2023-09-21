@@ -3,4 +3,3 @@ title:
 excerpt: 
 tags:
 ---
- their resolution

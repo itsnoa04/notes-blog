@@ -1,3 +1,8 @@
+---
+title: libinput
+excerpt: what is libinput
+tags:
+---
 - similar to [[libdrm]]
 - abstracts the [[DRM]] subsystem
 - provides the [[Userspace]] end of [[evdev]].

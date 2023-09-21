@@ -1,3 +1,8 @@
+---
+title: udev
+excerpt: what is eudev
+tags:
+---
 - udev is a daemon system
 - Deals with the appearance of new devices from the [[Kernel]]
 - configures permissions for the resulting device nodes in `/dev`
