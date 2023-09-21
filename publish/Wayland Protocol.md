@@ -1,3 +1,3 @@
 - A display protocol for [[linux]]
-- ![[The Wayland Client]] 
-- ![[The Wayland Compositor]]
+- [[The Wayland Client]]]![[The Wayland Client]] 
+- [[The Wayland Compositor]]![[The Wayland Compositor]]
