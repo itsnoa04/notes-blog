@@ -1,7 +1,6 @@
 ---
 title: Linux Kernel
-excerpt: what is the linux kernel
-tags:
+excerpt: linux_kernel
 ---
 - the system [[Kernel]] for the [[linux]] operating system
 - Only component allowed to talk to hardware

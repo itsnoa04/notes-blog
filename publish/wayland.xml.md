@@ -1,7 +1,6 @@
 ---
 title: wayland.xml
-excerpt: configuring wayland using xml
-tags:
+excerpt: wayland_xml
 ---
 - wayland protocols are defined as xml files
 - contains specification for the "core" [[Wayland Protocol]].

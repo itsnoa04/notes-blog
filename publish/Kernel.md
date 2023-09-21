@@ -1,6 +1,5 @@
 ---
 title: kernel
-excerpt: What is a Kernel
-tags:
+excerpt: kernel
 ---
 - The core of an OS that manages various operations

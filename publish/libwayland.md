@@ -1,7 +1,6 @@
 ---
 title: libwayland
-excerpt: what is libwayland
-tags:
+excerpt: libwayland
 ---
 - the most commonly used implementation of the [[Wayland Protocol]].
 - written in C

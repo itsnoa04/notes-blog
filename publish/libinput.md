@@ -1,7 +1,6 @@
 ---
 title: libinput
-excerpt: what is libinput
-tags:
+excerpt: libinput
 ---
 - similar to [[libdrm]]
 - abstracts the [[DRM]] subsystem

@@ -1,7 +1,6 @@
 ---
 title: The Wayland Compositor
-excerpt: 
-tags:
+excerpt: wayland_compositor
 ---
 - dispatches events to the appropriate wayland client
 - process of bringing together application windows ( [[The Wayland Client]] ) for display on an [[output]] is called [[compositing]]. 

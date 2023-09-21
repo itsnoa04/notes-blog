@@ -1,7 +1,6 @@
 ---
 title: udev
-excerpt: what is eudev
-tags:
+excerpt: eudev
 ---
 - udev is a daemon system
 - Deals with the appearance of new devices from the [[Kernel]]

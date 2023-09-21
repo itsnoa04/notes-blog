@@ -1,7 +1,6 @@
 ---
 title: Devamsh Manoj
-excerpt: What is this blog
-tags:
+excerpt: home
 ---
 
 # The Blog

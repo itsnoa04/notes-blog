@@ -1,5 +1,4 @@
 ---
 title: 
-excerpt: 
-tags:
+excerpt:
 ---

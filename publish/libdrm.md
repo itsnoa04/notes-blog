@@ -1,7 +1,6 @@
 ---
 title: libdrm
-excerpt: what is libdrm
-tags:
+excerpt: libdrm
 ---
  - a [[Userspace]] counterpart provided by most [[linux]] interfaces
 - has a pleasant-ish C API for working with these [[device nodes]] .

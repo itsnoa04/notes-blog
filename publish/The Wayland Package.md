@@ -1,7 +1,6 @@
 ---
 title: The Wayland Package
-excerpt: 
-tags:
+excerpt: wayland_package
 ---
 - the wayland package refers to the freedesktop.org distribution of the [[libwayland-client]], [[libwayland-server]], [[wayland-scanner]] and the [[wayland.xml]]. 
 - These files are located in

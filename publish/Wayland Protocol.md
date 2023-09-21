@@ -1,7 +1,6 @@
 ---
 title: wayland protocol
-excerpt: the wayland protocol explained.
-tags:
+excerpt: wayland_protocol
 ---
 - A display protocol for [[linux]]
 - [[The Wayland Client]]![[The Wayland Client]] 

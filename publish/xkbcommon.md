@@ -1,7 +1,6 @@
 ---
 title: xkbcommon
-excerpt: what is xkbcommon
-tags:
+excerpt: xkbcommon
 ---
 - XKB, short for X Keyboard
 - original keyboard handling subsystem of the [[Xorg]] server.
