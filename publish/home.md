@@ -1,5 +1,5 @@
 ---
-title: The Blog
+title: Notes
 excerpt: home
 ---
 This is a blog containing my live notes
