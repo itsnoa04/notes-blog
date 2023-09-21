@@ -1,5 +1,5 @@
 ---
-title: Mesa
+title: What is Mesa
 excerpt: mesa
 ---
 - Tool for rendering in [[linux]]

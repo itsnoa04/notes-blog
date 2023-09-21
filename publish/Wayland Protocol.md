@@ -1,5 +1,5 @@
 ---
-title: wayland protocol
+title: What is wayland protocol
 excerpt: wayland_protocol
 ---
 - A display protocol for [[linux]]

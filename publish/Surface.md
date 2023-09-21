@@ -1,5 +1,5 @@
 ---
-title: Surface (Wayland)
+title: What is Surface (Wayland)
 excerpt: surface_wayland
 ---
 A surface is a box of pixels that can be displayed on-screen. It's one of the primitives we build things like application windows out of.

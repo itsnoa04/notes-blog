@@ -1,5 +1,5 @@
 ---
-title: xkbcommon
+title: what is xkbcommon
 excerpt: xkbcommon
 ---
 - XKB, short for X Keyboard

@@ -1,5 +1,5 @@
 ---
-title: libinput
+title: What is libinput
 excerpt: libinput
 ---
 - similar to [[libdrm]]

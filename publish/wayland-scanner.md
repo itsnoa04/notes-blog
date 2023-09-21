@@ -1,5 +1,5 @@
 ---
-title: the wayland scanned
+title: What is the wayland scanned
 excerpt: wayland_scanner
 ---
 - used to process the [[wayland.xml]] files and generate code from them.

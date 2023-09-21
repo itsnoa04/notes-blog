@@ -1,5 +1,5 @@
 ---
-title: libdrm
+title: What is libdrm
 excerpt: libdrm
 ---
  - a [[Userspace]] counterpart provided by most [[linux]] interfaces

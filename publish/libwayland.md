@@ -1,5 +1,5 @@
 ---
-title: libwayland
+title: What is libwayland
 excerpt: libwayland
 ---
 - the most commonly used implementation of the [[Wayland Protocol]].

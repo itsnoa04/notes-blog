@@ -1,5 +1,5 @@
 ---
-title: Linux Kernel
+title: What is Linux Kernel
 excerpt: linux_kernel
 ---
 - the system [[Kernel]] for the [[linux]] operating system

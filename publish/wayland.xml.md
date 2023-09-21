@@ -1,5 +1,5 @@
 ---
-title: wayland.xml
+title: what is wayland.xml
 excerpt: wayland_xml
 ---
 - wayland protocols are defined as xml files
