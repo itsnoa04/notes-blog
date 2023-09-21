@@ -1,5 +1,5 @@
 ---
-title: udev
+title: What is (e)udev
 excerpt: eudev
 ---
 - udev is a daemon system
